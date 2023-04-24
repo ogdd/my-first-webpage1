@@ -1,0 +1,17 @@
+h1 {
+    color:rgb(54, 53, 11);
+}
+
+body {
+    background-color: palegreen;
+}
+
+footer {
+    position:fixed;
+    bottom: 0;
+    width: 98%;
+    color: gray;
+    text-align: left;
+    padding-left: 40px;
+    background-color:black;
+}
